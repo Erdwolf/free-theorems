@@ -1,0 +1,2 @@
+#!/bin/sh
+ghci -XTemplateHaskell FT ReifyType
